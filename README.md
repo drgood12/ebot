@@ -5,3 +5,5 @@
         src="https://discordbotlist.com/bots/517008210905923594/widget" 
         alt="Ebot stats on Discord Bot List">
 </a>
+
+        "You can vote for Ebot above!"
